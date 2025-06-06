@@ -6,7 +6,7 @@ The project is to make a Tic-Tac-Toe game.
   - In my own words of definition, tic-tac-toe is a game played by 2 players. It is played in a 3x3 grid gameboard (so a total of 9 tiles), the main mechanics of the game is for each player to put there mark inside each tiles. The goal for the players is to mark 3 rows of tiles (either horizontal, vertical, or diagonal).
 - Gameboard => It has 9 tiles total that creates a 3x3 grid.
 - To Win =>  you have to mark 3 tiles, their are 3 horizontal, 3 vertical and 2 diagonal possible combinations (meaning 24 possible tiles).
-- The Mechanics => the game is played by marking the 9 tiles with the goal of marking 3 consecutive (straight) tiles.
+- The Mechanics => Players play the game by each marking 1 tile out of 9 tiles with the goal of marking 3 consecutive (straight) tiles or all the tiles are marked.
 
   Creating the Code;
   first I need to create the gameboard.
